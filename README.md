@@ -42,23 +42,23 @@ Client (Browser) → API Gateway → AWS Lambda → Response
 
 ### 🔹 Step 1: Lambda Function Created
 
-![Lambda Function](screenshots/lambda-function.png)
+![Lambda Function](lambda-function.png)
 
 ### 🔹 Step 2: Lambda Code
 
-![Lambda Code](screenshots/lambda-code.png)
+![Lambda Code](lambda-code.png)
 
 ### 🔹 Step 3: API Gateway Integration
 
-![API Gateway](screenshots/api-gateway.png)
+![API Gateway](api-gateway.png)
 
 ### 🔹 Step 4: Final Output (Browser)
 
-![Output](screenshots/browser-output.png)
+![Output](browser-output.png)
 
 ### ⚠️ Step 5: Concurrency Error (Learning)
 
-![Error](screenshots/concurrency-error.png)
+![Error](concurrency-error.png)
 
 ---
 
